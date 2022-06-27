@@ -1,4 +1,4 @@
-### Hi👋 I'm Tanver Sobur
+## Hi👋 I'm Tanver Sobur
 
 
 **tanverrana/tanverrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
